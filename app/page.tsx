@@ -20,7 +20,7 @@ export default function HomePage() {
                     cursor: 'pointer',
                 }}
             >
-                Celebrate 🎉
+                Click for a Surprise
             </button>
         </main>
     );
